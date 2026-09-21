@@ -1,6 +1,5 @@
 # Data-science-on-cybersecurity-breach
-Data science personal project analyzing on the cybersecurity breach dataset from kaggle. 
-TBA
+Data science personal project analyzing on the cybersecurity breach dataset from kaggle. Made with Jupyter notebook 
 
 Data sourced used from kaggle (https://www.kaggle.com/datasets/thedevastator/data-breaches-a-comprehensive-list)
 
