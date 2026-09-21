@@ -1,0 +1,11 @@
+## Python Version
+Python 3.8 or higher
+
+Required libraries:
+pandas>=1.3.0          # Data manipulation and analysis
+numpy>=1.21.0          # Numerical computing
+matplotlib>=3.4.0      # Data visualization
+seaborn>=0.11.0        # Statistical data visualization
+scikit-learn>=1.0.0    # Machine learning models and metrics
+
+
