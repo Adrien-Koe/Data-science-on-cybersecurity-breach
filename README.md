@@ -3,6 +3,23 @@ Data science personal project analyzing on the cybersecurity breach dataset from
 
 Data sourced used from kaggle (https://www.kaggle.com/datasets/thedevastator/data-breaches-a-comprehensive-list)
 
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/YOUR_USERNAME/Data-science-on-cybersecurity-breach.git
+cd Data-science-on-cybersecurity-breach
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Open and run the notebook:
+```bash
+jupyter notebook notebooks_Personal_project.ipynb
+```
 Summary:
 - **Size:** 352 records | 8 features
 - **Key Variables:** Year, Records Leaked, Breach Method, Organization Type
